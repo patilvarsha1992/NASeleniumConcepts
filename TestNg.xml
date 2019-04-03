@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  <suite name="TestNg  Session " >
+ 	 <test name="Testng Features suite " >
+    	<classes>
+      		<class name="TestNg.AssertFeature"/>
+      		<class name="TestNg.GoogleTest"/>
+      		<class name="TestNg.PriorityFeature"/>
+    	</classes>
+ 	</test>
+</suite>
